@@ -7,6 +7,7 @@
 보기 좋은 화면을, 실제로 돌아가게 만드는 사람이 되고 싶습니다.
 
 <a href="https://aback-objective-714.notion.site/4209012bab148148baa6c33190812a95"><img src="https://img.shields.io/badge/Portfolio-F5D3DF?style=for-the-badge&logo=notion&logoColor=37352F"/></a>
+<a href="mailto:daunniy@gmail.com"><img src="https://img.shields.io/badge/Email-C14D72?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
