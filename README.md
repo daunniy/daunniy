@@ -6,7 +6,8 @@
 
 보기 좋은 화면을, 실제로 돌아가게 만드는 사람이 되고 싶습니다.
 
-<a href="https://aback-objective-714.notion.site/4209012bab148148baa6c33190812a95"><img src="https://img.shields.io/badge/Portfolio-F5D3DF?style=for-the-badge&logo=notion&logoColor=37352F"/></a>
+<a href="https://daunniy.github.io/"><img src="https://img.shields.io/badge/Portfolio-F5D3DF?style=for-the-badge&logo=githubpages&logoColor=37352F"/></a>
+<a href="https://aback-objective-714.notion.site/4209012bab148148baa6c33190812a95"><img src="https://img.shields.io/badge/Notion-37352F?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="mailto:daunniy@gmail.com"><img src="https://img.shields.io/badge/Email-C14D72?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
@@ -18,7 +19,7 @@
 - 뷰티 · 에스테틱 브랜드에서 **이벤트 홍보물, 패키지 디자인, 웹사이트 기획**을 맡고 있어요.
 - **인하대학교 소프트웨어융합공학**에서 Python, Java를 공부하고 있어요.
 - 생활 속 불편함에서 출발한 웹 서비스를 **기획 → 디자인 → 개발 → 배포**까지 직접 만들어요.
-- 디자인 작업과 프로젝트 상세 내용은 👉 [**노션 포트폴리오**](https://aback-objective-714.notion.site/4209012bab148148baa6c33190812a95)에서 볼 수 있어요.
+- 작업물은 👉 [**포트폴리오 사이트**](https://daunniy.github.io/)에서, 기록은 [노션](https://aback-objective-714.notion.site/4209012bab148148baa6c33190812a95)에서 볼 수 있어요.
 
 <br>
 
