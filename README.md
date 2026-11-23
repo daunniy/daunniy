@@ -39,17 +39,24 @@
 
 ## 🛠 Tech Stack
 
-**Design**
-
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-
-**Code**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<table>
+  <tr>
+    <td align="center" width="120"><b>Design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ps,ai,figma&perline=8" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react&perline=8" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Language</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java&perline=8" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,notion&perline=8" /></td>
+  </tr>
+</table>
 
 <br>
 
